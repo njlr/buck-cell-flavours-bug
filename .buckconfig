@@ -1,0 +1,8 @@
+[project]
+  ignore = .git
+
+[repositories]
+  mathutils = external/mathutils
+
+[cxx#debug]
+  cxxflags = -g 
